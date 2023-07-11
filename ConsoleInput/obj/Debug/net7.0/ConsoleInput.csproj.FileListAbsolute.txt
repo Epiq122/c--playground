@@ -1,0 +1,15 @@
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/ConsoleInput/bin/Debug/net7.0/ConsoleInput
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/ConsoleInput/bin/Debug/net7.0/ConsoleInput.deps.json
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/ConsoleInput/bin/Debug/net7.0/ConsoleInput.runtimeconfig.json
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/ConsoleInput/bin/Debug/net7.0/ConsoleInput.dll
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/ConsoleInput/bin/Debug/net7.0/ConsoleInput.pdb
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/ConsoleInput/obj/Debug/net7.0/ConsoleInput.csproj.AssemblyReference.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/ConsoleInput/obj/Debug/net7.0/ConsoleInput.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/ConsoleInput/obj/Debug/net7.0/ConsoleInput.AssemblyInfoInputs.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/ConsoleInput/obj/Debug/net7.0/ConsoleInput.AssemblyInfo.cs
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/ConsoleInput/obj/Debug/net7.0/ConsoleInput.csproj.CoreCompileInputs.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/ConsoleInput/obj/Debug/net7.0/ConsoleInput.dll
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/ConsoleInput/obj/Debug/net7.0/refint/ConsoleInput.dll
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/ConsoleInput/obj/Debug/net7.0/ConsoleInput.pdb
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/ConsoleInput/obj/Debug/net7.0/ConsoleInput.genruntimeconfig.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/ConsoleInput/obj/Debug/net7.0/ref/ConsoleInput.dll

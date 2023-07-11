@@ -1,0 +1,15 @@
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/ProgramArguments/bin/Debug/net7.0/ProgramArguments
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/ProgramArguments/bin/Debug/net7.0/ProgramArguments.deps.json
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/ProgramArguments/bin/Debug/net7.0/ProgramArguments.runtimeconfig.json
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/ProgramArguments/bin/Debug/net7.0/ProgramArguments.dll
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/ProgramArguments/bin/Debug/net7.0/ProgramArguments.pdb
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/ProgramArguments/obj/Debug/net7.0/ProgramArguments.csproj.AssemblyReference.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/ProgramArguments/obj/Debug/net7.0/ProgramArguments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/ProgramArguments/obj/Debug/net7.0/ProgramArguments.AssemblyInfoInputs.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/ProgramArguments/obj/Debug/net7.0/ProgramArguments.AssemblyInfo.cs
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/ProgramArguments/obj/Debug/net7.0/ProgramArguments.csproj.CoreCompileInputs.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/ProgramArguments/obj/Debug/net7.0/ProgramArguments.dll
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/ProgramArguments/obj/Debug/net7.0/refint/ProgramArguments.dll
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/ProgramArguments/obj/Debug/net7.0/ProgramArguments.pdb
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/ProgramArguments/obj/Debug/net7.0/ProgramArguments.genruntimeconfig.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/ProgramArguments/obj/Debug/net7.0/ref/ProgramArguments.dll
