@@ -1,0 +1,15 @@
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Strings/bin/Debug/net7.0/Strings
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Strings/bin/Debug/net7.0/Strings.deps.json
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Strings/bin/Debug/net7.0/Strings.runtimeconfig.json
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Strings/bin/Debug/net7.0/Strings.dll
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Strings/bin/Debug/net7.0/Strings.pdb
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Strings/obj/Debug/net7.0/Strings.csproj.AssemblyReference.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Strings/obj/Debug/net7.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Strings/obj/Debug/net7.0/Strings.AssemblyInfoInputs.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Strings/obj/Debug/net7.0/Strings.AssemblyInfo.cs
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Strings/obj/Debug/net7.0/Strings.csproj.CoreCompileInputs.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Strings/obj/Debug/net7.0/Strings.dll
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Strings/obj/Debug/net7.0/refint/Strings.dll
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Strings/obj/Debug/net7.0/Strings.pdb
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Strings/obj/Debug/net7.0/Strings.genruntimeconfig.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Strings/obj/Debug/net7.0/ref/Strings.dll

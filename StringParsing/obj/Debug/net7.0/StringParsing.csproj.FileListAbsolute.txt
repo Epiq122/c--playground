@@ -1,0 +1,15 @@
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/StringParsing/bin/Debug/net7.0/StringParsing
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/StringParsing/bin/Debug/net7.0/StringParsing.deps.json
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/StringParsing/bin/Debug/net7.0/StringParsing.runtimeconfig.json
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/StringParsing/bin/Debug/net7.0/StringParsing.dll
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/StringParsing/bin/Debug/net7.0/StringParsing.pdb
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/StringParsing/obj/Debug/net7.0/StringParsing.csproj.AssemblyReference.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/StringParsing/obj/Debug/net7.0/StringParsing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/StringParsing/obj/Debug/net7.0/StringParsing.AssemblyInfoInputs.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/StringParsing/obj/Debug/net7.0/StringParsing.AssemblyInfo.cs
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/StringParsing/obj/Debug/net7.0/StringParsing.csproj.CoreCompileInputs.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/StringParsing/obj/Debug/net7.0/StringParsing.dll
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/StringParsing/obj/Debug/net7.0/refint/StringParsing.dll
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/StringParsing/obj/Debug/net7.0/StringParsing.pdb
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/StringParsing/obj/Debug/net7.0/StringParsing.genruntimeconfig.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/StringParsing/obj/Debug/net7.0/ref/StringParsing.dll

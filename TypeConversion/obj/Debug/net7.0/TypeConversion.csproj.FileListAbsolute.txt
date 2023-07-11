@@ -1,0 +1,15 @@
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/TypeConversion/bin/Debug/net7.0/TypeConversion
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/TypeConversion/bin/Debug/net7.0/TypeConversion.deps.json
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/TypeConversion/bin/Debug/net7.0/TypeConversion.runtimeconfig.json
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/TypeConversion/bin/Debug/net7.0/TypeConversion.dll
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/TypeConversion/bin/Debug/net7.0/TypeConversion.pdb
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/TypeConversion/obj/Debug/net7.0/TypeConversion.csproj.AssemblyReference.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/TypeConversion/obj/Debug/net7.0/TypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/TypeConversion/obj/Debug/net7.0/TypeConversion.AssemblyInfoInputs.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/TypeConversion/obj/Debug/net7.0/TypeConversion.AssemblyInfo.cs
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/TypeConversion/obj/Debug/net7.0/TypeConversion.csproj.CoreCompileInputs.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/TypeConversion/obj/Debug/net7.0/TypeConversion.dll
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/TypeConversion/obj/Debug/net7.0/refint/TypeConversion.dll
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/TypeConversion/obj/Debug/net7.0/TypeConversion.pdb
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/TypeConversion/obj/Debug/net7.0/TypeConversion.genruntimeconfig.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/TypeConversion/obj/Debug/net7.0/ref/TypeConversion.dll

@@ -1,0 +1,15 @@
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/DateTime/bin/Debug/net7.0/DateTime
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/DateTime/bin/Debug/net7.0/DateTime.deps.json
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/DateTime/bin/Debug/net7.0/DateTime.runtimeconfig.json
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/DateTime/bin/Debug/net7.0/DateTime.dll
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/DateTime/bin/Debug/net7.0/DateTime.pdb
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/DateTime/obj/Debug/net7.0/DateTime.csproj.AssemblyReference.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/DateTime/obj/Debug/net7.0/DateTime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/DateTime/obj/Debug/net7.0/DateTime.AssemblyInfoInputs.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/DateTime/obj/Debug/net7.0/DateTime.AssemblyInfo.cs
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/DateTime/obj/Debug/net7.0/DateTime.csproj.CoreCompileInputs.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/DateTime/obj/Debug/net7.0/DateTime.dll
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/DateTime/obj/Debug/net7.0/refint/DateTime.dll
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/DateTime/obj/Debug/net7.0/DateTime.pdb
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/DateTime/obj/Debug/net7.0/DateTime.genruntimeconfig.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/DateTime/obj/Debug/net7.0/ref/DateTime.dll
