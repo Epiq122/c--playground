@@ -1,0 +1,15 @@
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/IterationStatements/bin/Debug/net7.0/IterationStatements
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/IterationStatements/bin/Debug/net7.0/IterationStatements.deps.json
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/IterationStatements/bin/Debug/net7.0/IterationStatements.runtimeconfig.json
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/IterationStatements/bin/Debug/net7.0/IterationStatements.dll
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/IterationStatements/bin/Debug/net7.0/IterationStatements.pdb
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/IterationStatements/obj/Debug/net7.0/IterationStatements.csproj.AssemblyReference.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/IterationStatements/obj/Debug/net7.0/IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/IterationStatements/obj/Debug/net7.0/IterationStatements.AssemblyInfoInputs.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/IterationStatements/obj/Debug/net7.0/IterationStatements.AssemblyInfo.cs
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/IterationStatements/obj/Debug/net7.0/IterationStatements.csproj.CoreCompileInputs.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/IterationStatements/obj/Debug/net7.0/IterationStatements.dll
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/IterationStatements/obj/Debug/net7.0/refint/IterationStatements.dll
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/IterationStatements/obj/Debug/net7.0/IterationStatements.pdb
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/IterationStatements/obj/Debug/net7.0/IterationStatements.genruntimeconfig.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/IterationStatements/obj/Debug/net7.0/ref/IterationStatements.dll

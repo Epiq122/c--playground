@@ -1,0 +1,15 @@
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Conditionals/bin/Debug/net7.0/Conditionals
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Conditionals/bin/Debug/net7.0/Conditionals.deps.json
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Conditionals/bin/Debug/net7.0/Conditionals.runtimeconfig.json
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Conditionals/bin/Debug/net7.0/Conditionals.dll
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Conditionals/bin/Debug/net7.0/Conditionals.pdb
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Conditionals/obj/Debug/net7.0/Conditionals.csproj.AssemblyReference.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Conditionals/obj/Debug/net7.0/Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Conditionals/obj/Debug/net7.0/Conditionals.AssemblyInfoInputs.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Conditionals/obj/Debug/net7.0/Conditionals.AssemblyInfo.cs
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Conditionals/obj/Debug/net7.0/Conditionals.csproj.CoreCompileInputs.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Conditionals/obj/Debug/net7.0/Conditionals.dll
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Conditionals/obj/Debug/net7.0/refint/Conditionals.dll
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Conditionals/obj/Debug/net7.0/Conditionals.pdb
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Conditionals/obj/Debug/net7.0/Conditionals.genruntimeconfig.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Conditionals/obj/Debug/net7.0/ref/Conditionals.dll

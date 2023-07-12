@@ -1,0 +1,15 @@
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Switch/bin/Debug/net7.0/Switch
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Switch/bin/Debug/net7.0/Switch.deps.json
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Switch/bin/Debug/net7.0/Switch.runtimeconfig.json
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Switch/bin/Debug/net7.0/Switch.dll
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Switch/bin/Debug/net7.0/Switch.pdb
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Switch/obj/Debug/net7.0/Switch.csproj.AssemblyReference.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Switch/obj/Debug/net7.0/Switch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Switch/obj/Debug/net7.0/Switch.AssemblyInfoInputs.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Switch/obj/Debug/net7.0/Switch.AssemblyInfo.cs
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Switch/obj/Debug/net7.0/Switch.csproj.CoreCompileInputs.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Switch/obj/Debug/net7.0/Switch.dll
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Switch/obj/Debug/net7.0/refint/Switch.dll
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Switch/obj/Debug/net7.0/Switch.pdb
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Switch/obj/Debug/net7.0/Switch.genruntimeconfig.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/Switch/obj/Debug/net7.0/ref/Switch.dll
