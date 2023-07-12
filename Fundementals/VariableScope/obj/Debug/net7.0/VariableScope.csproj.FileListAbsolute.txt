@@ -1,0 +1,15 @@
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/VariableScope/bin/Debug/net7.0/VariableScope
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/VariableScope/bin/Debug/net7.0/VariableScope.deps.json
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/VariableScope/bin/Debug/net7.0/VariableScope.runtimeconfig.json
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/VariableScope/bin/Debug/net7.0/VariableScope.dll
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/VariableScope/bin/Debug/net7.0/VariableScope.pdb
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/VariableScope/obj/Debug/net7.0/VariableScope.csproj.AssemblyReference.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/VariableScope/obj/Debug/net7.0/VariableScope.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/VariableScope/obj/Debug/net7.0/VariableScope.AssemblyInfoInputs.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/VariableScope/obj/Debug/net7.0/VariableScope.AssemblyInfo.cs
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/VariableScope/obj/Debug/net7.0/VariableScope.csproj.CoreCompileInputs.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/VariableScope/obj/Debug/net7.0/VariableScope.dll
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/VariableScope/obj/Debug/net7.0/refint/VariableScope.dll
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/VariableScope/obj/Debug/net7.0/VariableScope.pdb
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/VariableScope/obj/Debug/net7.0/VariableScope.genruntimeconfig.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/VariableScope/obj/Debug/net7.0/ref/VariableScope.dll

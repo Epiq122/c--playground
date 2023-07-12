@@ -1,0 +1,15 @@
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/LoopChallenge1/bin/Debug/net7.0/LoopChallenge1
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/LoopChallenge1/bin/Debug/net7.0/LoopChallenge1.deps.json
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/LoopChallenge1/bin/Debug/net7.0/LoopChallenge1.runtimeconfig.json
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/LoopChallenge1/bin/Debug/net7.0/LoopChallenge1.dll
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/LoopChallenge1/bin/Debug/net7.0/LoopChallenge1.pdb
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/LoopChallenge1/obj/Debug/net7.0/LoopChallenge1.csproj.AssemblyReference.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/LoopChallenge1/obj/Debug/net7.0/LoopChallenge1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/LoopChallenge1/obj/Debug/net7.0/LoopChallenge1.AssemblyInfoInputs.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/LoopChallenge1/obj/Debug/net7.0/LoopChallenge1.AssemblyInfo.cs
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/LoopChallenge1/obj/Debug/net7.0/LoopChallenge1.csproj.CoreCompileInputs.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/LoopChallenge1/obj/Debug/net7.0/LoopChallenge1.dll
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/LoopChallenge1/obj/Debug/net7.0/refint/LoopChallenge1.dll
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/LoopChallenge1/obj/Debug/net7.0/LoopChallenge1.pdb
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/LoopChallenge1/obj/Debug/net7.0/LoopChallenge1.genruntimeconfig.cache
+/Users/rob/Desktop/C#/ZTM/Fundementals/ZTM.DotNet/LoopChallenge1/obj/Debug/net7.0/ref/LoopChallenge1.dll
