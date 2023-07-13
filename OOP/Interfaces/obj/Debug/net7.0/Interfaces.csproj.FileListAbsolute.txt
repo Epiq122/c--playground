@@ -1,0 +1,15 @@
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Interfaces/bin/Debug/net7.0/Interfaces
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Interfaces/bin/Debug/net7.0/Interfaces.deps.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Interfaces/bin/Debug/net7.0/Interfaces.runtimeconfig.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Interfaces/bin/Debug/net7.0/Interfaces.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Interfaces/bin/Debug/net7.0/Interfaces.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Interfaces/obj/Debug/net7.0/Interfaces.csproj.AssemblyReference.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Interfaces/obj/Debug/net7.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Interfaces/obj/Debug/net7.0/Interfaces.AssemblyInfoInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Interfaces/obj/Debug/net7.0/Interfaces.AssemblyInfo.cs
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Interfaces/obj/Debug/net7.0/Interfaces.csproj.CoreCompileInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Interfaces/obj/Debug/net7.0/Interfaces.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Interfaces/obj/Debug/net7.0/refint/Interfaces.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Interfaces/obj/Debug/net7.0/Interfaces.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Interfaces/obj/Debug/net7.0/Interfaces.genruntimeconfig.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Interfaces/obj/Debug/net7.0/ref/Interfaces.dll

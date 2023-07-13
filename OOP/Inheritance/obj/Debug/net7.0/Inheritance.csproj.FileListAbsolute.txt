@@ -1,0 +1,15 @@
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Inheritance/bin/Debug/net7.0/Inheritance
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Inheritance/bin/Debug/net7.0/Inheritance.deps.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Inheritance/bin/Debug/net7.0/Inheritance.runtimeconfig.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Inheritance/bin/Debug/net7.0/Inheritance.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Inheritance/bin/Debug/net7.0/Inheritance.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Inheritance/obj/Debug/net7.0/Inheritance.csproj.AssemblyReference.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Inheritance/obj/Debug/net7.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Inheritance/obj/Debug/net7.0/Inheritance.AssemblyInfoInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Inheritance/obj/Debug/net7.0/Inheritance.AssemblyInfo.cs
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Inheritance/obj/Debug/net7.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Inheritance/obj/Debug/net7.0/Inheritance.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Inheritance/obj/Debug/net7.0/refint/Inheritance.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Inheritance/obj/Debug/net7.0/Inheritance.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Inheritance/obj/Debug/net7.0/Inheritance.genruntimeconfig.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Inheritance/obj/Debug/net7.0/ref/Inheritance.dll

@@ -9,9 +9,10 @@ Console.WriteLine(greeting);
 
 
 
-Math math = new Math();
-int result = math.Sum(10, 10);
+// this is when you add static to your methods for when you dont need an instance
+int result = Math.Sum(10, 10);
 Console.WriteLine(result);
+Console.WriteLine(Math.PI);
 
 class Person
 {
@@ -37,8 +38,12 @@ class Person
 
 }
 
-public class Math
+public static class Math
 {
+  public static double PI
+  {
+    get { return 3.14d; }
+  }
   public static int Sum(int a, int b)
   {
     return a + b;

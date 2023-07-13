@@ -1,0 +1,15 @@
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/MyFirstClass/bin/Debug/net7.0/MyFirstClass
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/MyFirstClass/bin/Debug/net7.0/MyFirstClass.deps.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/MyFirstClass/bin/Debug/net7.0/MyFirstClass.runtimeconfig.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/MyFirstClass/bin/Debug/net7.0/MyFirstClass.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/MyFirstClass/bin/Debug/net7.0/MyFirstClass.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/MyFirstClass/obj/Debug/net7.0/MyFirstClass.csproj.AssemblyReference.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/MyFirstClass/obj/Debug/net7.0/MyFirstClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/MyFirstClass/obj/Debug/net7.0/MyFirstClass.AssemblyInfoInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/MyFirstClass/obj/Debug/net7.0/MyFirstClass.AssemblyInfo.cs
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/MyFirstClass/obj/Debug/net7.0/MyFirstClass.csproj.CoreCompileInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/MyFirstClass/obj/Debug/net7.0/MyFirstClass.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/MyFirstClass/obj/Debug/net7.0/refint/MyFirstClass.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/MyFirstClass/obj/Debug/net7.0/MyFirstClass.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/MyFirstClass/obj/Debug/net7.0/MyFirstClass.genruntimeconfig.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/MyFirstClass/obj/Debug/net7.0/ref/MyFirstClass.dll
