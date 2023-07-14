@@ -1,0 +1,15 @@
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/AdvancedVariableScopes/bin/Debug/net7.0/AdvancedVariableScopes
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/AdvancedVariableScopes/bin/Debug/net7.0/AdvancedVariableScopes.deps.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/AdvancedVariableScopes/bin/Debug/net7.0/AdvancedVariableScopes.runtimeconfig.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/AdvancedVariableScopes/bin/Debug/net7.0/AdvancedVariableScopes.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/AdvancedVariableScopes/bin/Debug/net7.0/AdvancedVariableScopes.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/AdvancedVariableScopes/obj/Debug/net7.0/AdvancedVariableScopes.csproj.AssemblyReference.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/AdvancedVariableScopes/obj/Debug/net7.0/AdvancedVariableScopes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/AdvancedVariableScopes/obj/Debug/net7.0/AdvancedVariableScopes.AssemblyInfoInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/AdvancedVariableScopes/obj/Debug/net7.0/AdvancedVariableScopes.AssemblyInfo.cs
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/AdvancedVariableScopes/obj/Debug/net7.0/AdvancedVariableScopes.csproj.CoreCompileInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/AdvancedVariableScopes/obj/Debug/net7.0/AdvancedVariableScopes.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/AdvancedVariableScopes/obj/Debug/net7.0/refint/AdvancedVariableScopes.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/AdvancedVariableScopes/obj/Debug/net7.0/AdvancedVariableScopes.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/AdvancedVariableScopes/obj/Debug/net7.0/AdvancedVariableScopes.genruntimeconfig.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/AdvancedVariableScopes/obj/Debug/net7.0/ref/AdvancedVariableScopes.dll

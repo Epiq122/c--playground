@@ -1,0 +1,15 @@
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/ConsoleAccountingSystem/bin/Debug/net7.0/ConsoleAccountingSystem
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/ConsoleAccountingSystem/bin/Debug/net7.0/ConsoleAccountingSystem.deps.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/ConsoleAccountingSystem/bin/Debug/net7.0/ConsoleAccountingSystem.runtimeconfig.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/ConsoleAccountingSystem/bin/Debug/net7.0/ConsoleAccountingSystem.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/ConsoleAccountingSystem/bin/Debug/net7.0/ConsoleAccountingSystem.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/ConsoleAccountingSystem/obj/Debug/net7.0/ConsoleAccountingSystem.csproj.AssemblyReference.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/ConsoleAccountingSystem/obj/Debug/net7.0/ConsoleAccountingSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/ConsoleAccountingSystem/obj/Debug/net7.0/ConsoleAccountingSystem.AssemblyInfoInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/ConsoleAccountingSystem/obj/Debug/net7.0/ConsoleAccountingSystem.AssemblyInfo.cs
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/ConsoleAccountingSystem/obj/Debug/net7.0/ConsoleAccountingSystem.csproj.CoreCompileInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/ConsoleAccountingSystem/obj/Debug/net7.0/ConsoleAccountingSystem.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/ConsoleAccountingSystem/obj/Debug/net7.0/refint/ConsoleAccountingSystem.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/ConsoleAccountingSystem/obj/Debug/net7.0/ConsoleAccountingSystem.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/ConsoleAccountingSystem/obj/Debug/net7.0/ConsoleAccountingSystem.genruntimeconfig.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/ConsoleAccountingSystem/obj/Debug/net7.0/ref/ConsoleAccountingSystem.dll

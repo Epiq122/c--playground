@@ -1,0 +1,15 @@
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Polymorphism/bin/Debug/net7.0/Polymorphism
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Polymorphism/bin/Debug/net7.0/Polymorphism.deps.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Polymorphism/bin/Debug/net7.0/Polymorphism.runtimeconfig.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Polymorphism/bin/Debug/net7.0/Polymorphism.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Polymorphism/bin/Debug/net7.0/Polymorphism.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Polymorphism/obj/Debug/net7.0/Polymorphism.csproj.AssemblyReference.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Polymorphism/obj/Debug/net7.0/Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Polymorphism/obj/Debug/net7.0/Polymorphism.AssemblyInfoInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Polymorphism/obj/Debug/net7.0/Polymorphism.AssemblyInfo.cs
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Polymorphism/obj/Debug/net7.0/Polymorphism.csproj.CoreCompileInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Polymorphism/obj/Debug/net7.0/Polymorphism.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Polymorphism/obj/Debug/net7.0/refint/Polymorphism.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Polymorphism/obj/Debug/net7.0/Polymorphism.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Polymorphism/obj/Debug/net7.0/Polymorphism.genruntimeconfig.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/OOP/Polymorphism/obj/Debug/net7.0/ref/Polymorphism.dll
