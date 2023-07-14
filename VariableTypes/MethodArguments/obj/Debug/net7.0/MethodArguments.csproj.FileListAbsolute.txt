@@ -1,0 +1,15 @@
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/MethodArguments/bin/Debug/net7.0/MethodArguments
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/MethodArguments/bin/Debug/net7.0/MethodArguments.deps.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/MethodArguments/bin/Debug/net7.0/MethodArguments.runtimeconfig.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/MethodArguments/bin/Debug/net7.0/MethodArguments.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/MethodArguments/bin/Debug/net7.0/MethodArguments.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/MethodArguments/obj/Debug/net7.0/MethodArguments.csproj.AssemblyReference.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/MethodArguments/obj/Debug/net7.0/MethodArguments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/MethodArguments/obj/Debug/net7.0/MethodArguments.AssemblyInfoInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/MethodArguments/obj/Debug/net7.0/MethodArguments.AssemblyInfo.cs
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/MethodArguments/obj/Debug/net7.0/MethodArguments.csproj.CoreCompileInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/MethodArguments/obj/Debug/net7.0/MethodArguments.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/MethodArguments/obj/Debug/net7.0/refint/MethodArguments.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/MethodArguments/obj/Debug/net7.0/MethodArguments.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/MethodArguments/obj/Debug/net7.0/MethodArguments.genruntimeconfig.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/MethodArguments/obj/Debug/net7.0/ref/MethodArguments.dll

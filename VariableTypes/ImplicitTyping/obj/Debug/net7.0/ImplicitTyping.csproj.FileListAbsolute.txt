@@ -1,0 +1,15 @@
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/ImplicitTyping/bin/Debug/net7.0/ImplicitTyping
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/ImplicitTyping/bin/Debug/net7.0/ImplicitTyping.deps.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/ImplicitTyping/bin/Debug/net7.0/ImplicitTyping.runtimeconfig.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/ImplicitTyping/bin/Debug/net7.0/ImplicitTyping.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/ImplicitTyping/bin/Debug/net7.0/ImplicitTyping.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/ImplicitTyping/obj/Debug/net7.0/ImplicitTyping.csproj.AssemblyReference.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/ImplicitTyping/obj/Debug/net7.0/ImplicitTyping.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/ImplicitTyping/obj/Debug/net7.0/ImplicitTyping.AssemblyInfoInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/ImplicitTyping/obj/Debug/net7.0/ImplicitTyping.AssemblyInfo.cs
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/ImplicitTyping/obj/Debug/net7.0/ImplicitTyping.csproj.CoreCompileInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/ImplicitTyping/obj/Debug/net7.0/ImplicitTyping.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/ImplicitTyping/obj/Debug/net7.0/refint/ImplicitTyping.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/ImplicitTyping/obj/Debug/net7.0/ImplicitTyping.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/ImplicitTyping/obj/Debug/net7.0/ImplicitTyping.genruntimeconfig.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/ImplicitTyping/obj/Debug/net7.0/ref/ImplicitTyping.dll

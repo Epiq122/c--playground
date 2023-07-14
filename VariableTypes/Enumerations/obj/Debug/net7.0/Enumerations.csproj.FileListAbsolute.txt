@@ -1,0 +1,15 @@
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/Enumerations/bin/Debug/net7.0/Enumerations
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/Enumerations/bin/Debug/net7.0/Enumerations.deps.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/Enumerations/bin/Debug/net7.0/Enumerations.runtimeconfig.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/Enumerations/bin/Debug/net7.0/Enumerations.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/Enumerations/bin/Debug/net7.0/Enumerations.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/Enumerations/obj/Debug/net7.0/Enumerations.csproj.AssemblyReference.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/Enumerations/obj/Debug/net7.0/Enumerations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/Enumerations/obj/Debug/net7.0/Enumerations.AssemblyInfoInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/Enumerations/obj/Debug/net7.0/Enumerations.AssemblyInfo.cs
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/Enumerations/obj/Debug/net7.0/Enumerations.csproj.CoreCompileInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/Enumerations/obj/Debug/net7.0/Enumerations.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/Enumerations/obj/Debug/net7.0/refint/Enumerations.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/Enumerations/obj/Debug/net7.0/Enumerations.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/Enumerations/obj/Debug/net7.0/Enumerations.genruntimeconfig.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/Enumerations/obj/Debug/net7.0/ref/Enumerations.dll

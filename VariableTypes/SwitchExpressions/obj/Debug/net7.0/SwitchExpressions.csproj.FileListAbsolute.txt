@@ -1,0 +1,15 @@
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/SwitchExpressions/bin/Debug/net7.0/SwitchExpressions
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/SwitchExpressions/bin/Debug/net7.0/SwitchExpressions.deps.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/SwitchExpressions/bin/Debug/net7.0/SwitchExpressions.runtimeconfig.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/SwitchExpressions/bin/Debug/net7.0/SwitchExpressions.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/SwitchExpressions/bin/Debug/net7.0/SwitchExpressions.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/SwitchExpressions/obj/Debug/net7.0/SwitchExpressions.csproj.AssemblyReference.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/SwitchExpressions/obj/Debug/net7.0/SwitchExpressions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/SwitchExpressions/obj/Debug/net7.0/SwitchExpressions.AssemblyInfoInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/SwitchExpressions/obj/Debug/net7.0/SwitchExpressions.AssemblyInfo.cs
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/SwitchExpressions/obj/Debug/net7.0/SwitchExpressions.csproj.CoreCompileInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/SwitchExpressions/obj/Debug/net7.0/SwitchExpressions.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/SwitchExpressions/obj/Debug/net7.0/refint/SwitchExpressions.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/SwitchExpressions/obj/Debug/net7.0/SwitchExpressions.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/SwitchExpressions/obj/Debug/net7.0/SwitchExpressions.genruntimeconfig.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/SwitchExpressions/obj/Debug/net7.0/ref/SwitchExpressions.dll
