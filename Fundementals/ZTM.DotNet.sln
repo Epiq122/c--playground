@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structs", "..\VariableTypes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodArguments", "..\VariableTypes\MethodArguments\MethodArguments.csproj", "{799AD7C6-A19C-4037-9341-1CEAD689D00A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodArgumentsTypeParams", "..\VariableTypes\MethodArgumentsTypeParams\MethodArgumentsTypeParams.csproj", "{FFB71CB6-2B45-4286-ACAE-C0D54D0D30B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -197,6 +199,10 @@ Global
 		{799AD7C6-A19C-4037-9341-1CEAD689D00A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{799AD7C6-A19C-4037-9341-1CEAD689D00A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{799AD7C6-A19C-4037-9341-1CEAD689D00A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFB71CB6-2B45-4286-ACAE-C0D54D0D30B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFB71CB6-2B45-4286-ACAE-C0D54D0D30B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFB71CB6-2B45-4286-ACAE-C0D54D0D30B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFB71CB6-2B45-4286-ACAE-C0D54D0D30B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
