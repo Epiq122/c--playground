@@ -1,10 +1,4 @@
-﻿var rectangle = new Rectangle(100, 200);
-Console.WriteLine($"reactanngle height before method : {rectangle.Height}");
-
-MethodParameters.ChangeHeight(ref rectangle); // changes the value of the rectangle using the ref keyword
-Console.WriteLine($"reactanngle height after method : {rectangle.Height}");
-
-public struct Rectangle
+﻿public struct Rectangle
 {
   public Rectangle(double width, double height)
   {
