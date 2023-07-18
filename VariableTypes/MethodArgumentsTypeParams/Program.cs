@@ -2,8 +2,8 @@
 {
   public Rectangle(double width, double height)
   {
-    Width = width;
-    Height = height;
+    // Width = width;
+    // Height = height;
   }
 
 
