@@ -1,0 +1,15 @@
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/MethodArgumentsTypeParams/bin/Debug/net7.0/MethodArgumentsTypeParams
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/MethodArgumentsTypeParams/bin/Debug/net7.0/MethodArgumentsTypeParams.deps.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/MethodArgumentsTypeParams/bin/Debug/net7.0/MethodArgumentsTypeParams.runtimeconfig.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/MethodArgumentsTypeParams/bin/Debug/net7.0/MethodArgumentsTypeParams.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/MethodArgumentsTypeParams/bin/Debug/net7.0/MethodArgumentsTypeParams.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/MethodArgumentsTypeParams/obj/Debug/net7.0/MethodArgumentsTypeParams.csproj.AssemblyReference.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/MethodArgumentsTypeParams/obj/Debug/net7.0/MethodArgumentsTypeParams.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/MethodArgumentsTypeParams/obj/Debug/net7.0/MethodArgumentsTypeParams.AssemblyInfoInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/MethodArgumentsTypeParams/obj/Debug/net7.0/MethodArgumentsTypeParams.AssemblyInfo.cs
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/MethodArgumentsTypeParams/obj/Debug/net7.0/MethodArgumentsTypeParams.csproj.CoreCompileInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/MethodArgumentsTypeParams/obj/Debug/net7.0/MethodArgumentsTypeParams.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/MethodArgumentsTypeParams/obj/Debug/net7.0/refint/MethodArgumentsTypeParams.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/MethodArgumentsTypeParams/obj/Debug/net7.0/MethodArgumentsTypeParams.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/MethodArgumentsTypeParams/obj/Debug/net7.0/MethodArgumentsTypeParams.genruntimeconfig.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/VariableTypes/MethodArgumentsTypeParams/obj/Debug/net7.0/ref/MethodArgumentsTypeParams.dll
