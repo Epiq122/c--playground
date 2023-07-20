@@ -1,0 +1,15 @@
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/Dictionary/bin/Debug/net7.0/Dictionary
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/Dictionary/bin/Debug/net7.0/Dictionary.deps.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/Dictionary/bin/Debug/net7.0/Dictionary.runtimeconfig.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/Dictionary/bin/Debug/net7.0/Dictionary.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/Dictionary/bin/Debug/net7.0/Dictionary.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/Dictionary/obj/Debug/net7.0/Dictionary.csproj.AssemblyReference.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/Dictionary/obj/Debug/net7.0/Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/Dictionary/obj/Debug/net7.0/Dictionary.AssemblyInfoInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/Dictionary/obj/Debug/net7.0/Dictionary.AssemblyInfo.cs
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/Dictionary/obj/Debug/net7.0/Dictionary.csproj.CoreCompileInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/Dictionary/obj/Debug/net7.0/Dictionary.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/Dictionary/obj/Debug/net7.0/refint/Dictionary.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/Dictionary/obj/Debug/net7.0/Dictionary.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/Dictionary/obj/Debug/net7.0/Dictionary.genruntimeconfig.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/Dictionary/obj/Debug/net7.0/ref/Dictionary.dll

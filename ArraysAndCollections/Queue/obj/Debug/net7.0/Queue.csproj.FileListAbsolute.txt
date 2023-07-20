@@ -1,0 +1,15 @@
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/Queue/bin/Debug/net7.0/Queue
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/Queue/bin/Debug/net7.0/Queue.deps.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/Queue/bin/Debug/net7.0/Queue.runtimeconfig.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/Queue/bin/Debug/net7.0/Queue.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/Queue/bin/Debug/net7.0/Queue.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/Queue/obj/Debug/net7.0/Queue.csproj.AssemblyReference.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/Queue/obj/Debug/net7.0/Queue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/Queue/obj/Debug/net7.0/Queue.AssemblyInfoInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/Queue/obj/Debug/net7.0/Queue.AssemblyInfo.cs
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/Queue/obj/Debug/net7.0/Queue.csproj.CoreCompileInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/Queue/obj/Debug/net7.0/Queue.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/Queue/obj/Debug/net7.0/refint/Queue.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/Queue/obj/Debug/net7.0/Queue.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/Queue/obj/Debug/net7.0/Queue.genruntimeconfig.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/Queue/obj/Debug/net7.0/ref/Queue.dll

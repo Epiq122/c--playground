@@ -1,0 +1,15 @@
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/OrderingData/bin/Debug/net7.0/OrderingData
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/OrderingData/bin/Debug/net7.0/OrderingData.deps.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/OrderingData/bin/Debug/net7.0/OrderingData.runtimeconfig.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/OrderingData/bin/Debug/net7.0/OrderingData.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/OrderingData/bin/Debug/net7.0/OrderingData.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/OrderingData/obj/Debug/net7.0/OrderingData.csproj.AssemblyReference.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/OrderingData/obj/Debug/net7.0/OrderingData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/OrderingData/obj/Debug/net7.0/OrderingData.AssemblyInfoInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/OrderingData/obj/Debug/net7.0/OrderingData.AssemblyInfo.cs
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/OrderingData/obj/Debug/net7.0/OrderingData.csproj.CoreCompileInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/OrderingData/obj/Debug/net7.0/OrderingData.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/OrderingData/obj/Debug/net7.0/refint/OrderingData.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/OrderingData/obj/Debug/net7.0/OrderingData.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/OrderingData/obj/Debug/net7.0/OrderingData.genruntimeconfig.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/OrderingData/obj/Debug/net7.0/ref/OrderingData.dll

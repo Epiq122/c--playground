@@ -1,0 +1,15 @@
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/AdvancedC#/ExtensionMethods/bin/Debug/net7.0/ExtensionMethods
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/AdvancedC#/ExtensionMethods/bin/Debug/net7.0/ExtensionMethods.deps.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/AdvancedC#/ExtensionMethods/bin/Debug/net7.0/ExtensionMethods.runtimeconfig.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/AdvancedC#/ExtensionMethods/bin/Debug/net7.0/ExtensionMethods.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/AdvancedC#/ExtensionMethods/bin/Debug/net7.0/ExtensionMethods.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/AdvancedC#/ExtensionMethods/obj/Debug/net7.0/ExtensionMethods.csproj.AssemblyReference.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/AdvancedC#/ExtensionMethods/obj/Debug/net7.0/ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/AdvancedC#/ExtensionMethods/obj/Debug/net7.0/ExtensionMethods.AssemblyInfoInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/AdvancedC#/ExtensionMethods/obj/Debug/net7.0/ExtensionMethods.AssemblyInfo.cs
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/AdvancedC#/ExtensionMethods/obj/Debug/net7.0/ExtensionMethods.csproj.CoreCompileInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/AdvancedC#/ExtensionMethods/obj/Debug/net7.0/ExtensionMethods.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/AdvancedC#/ExtensionMethods/obj/Debug/net7.0/refint/ExtensionMethods.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/AdvancedC#/ExtensionMethods/obj/Debug/net7.0/ExtensionMethods.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/AdvancedC#/ExtensionMethods/obj/Debug/net7.0/ExtensionMethods.genruntimeconfig.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/AdvancedC#/ExtensionMethods/obj/Debug/net7.0/ref/ExtensionMethods.dll

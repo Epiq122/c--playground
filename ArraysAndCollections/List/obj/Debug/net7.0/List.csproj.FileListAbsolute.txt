@@ -1,0 +1,15 @@
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/List/bin/Debug/net7.0/List
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/List/bin/Debug/net7.0/List.deps.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/List/bin/Debug/net7.0/List.runtimeconfig.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/List/bin/Debug/net7.0/List.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/List/bin/Debug/net7.0/List.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/List/obj/Debug/net7.0/List.csproj.AssemblyReference.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/List/obj/Debug/net7.0/List.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/List/obj/Debug/net7.0/List.AssemblyInfoInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/List/obj/Debug/net7.0/List.AssemblyInfo.cs
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/List/obj/Debug/net7.0/List.csproj.CoreCompileInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/List/obj/Debug/net7.0/List.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/List/obj/Debug/net7.0/refint/List.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/List/obj/Debug/net7.0/List.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/List/obj/Debug/net7.0/List.genruntimeconfig.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/ArraysAndCollections/List/obj/Debug/net7.0/ref/List.dll

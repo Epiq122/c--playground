@@ -1,0 +1,15 @@
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/FilteringData/bin/Debug/net7.0/FilteringData
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/FilteringData/bin/Debug/net7.0/FilteringData.deps.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/FilteringData/bin/Debug/net7.0/FilteringData.runtimeconfig.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/FilteringData/bin/Debug/net7.0/FilteringData.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/FilteringData/bin/Debug/net7.0/FilteringData.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/FilteringData/obj/Debug/net7.0/FilteringData.csproj.AssemblyReference.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/FilteringData/obj/Debug/net7.0/FilteringData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/FilteringData/obj/Debug/net7.0/FilteringData.AssemblyInfoInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/FilteringData/obj/Debug/net7.0/FilteringData.AssemblyInfo.cs
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/FilteringData/obj/Debug/net7.0/FilteringData.csproj.CoreCompileInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/FilteringData/obj/Debug/net7.0/FilteringData.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/FilteringData/obj/Debug/net7.0/refint/FilteringData.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/FilteringData/obj/Debug/net7.0/FilteringData.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/FilteringData/obj/Debug/net7.0/FilteringData.genruntimeconfig.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/FilteringData/obj/Debug/net7.0/ref/FilteringData.dll
