@@ -1,0 +1,15 @@
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/SelectingData/bin/Debug/net7.0/SelectingData
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/SelectingData/bin/Debug/net7.0/SelectingData.deps.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/SelectingData/bin/Debug/net7.0/SelectingData.runtimeconfig.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/SelectingData/bin/Debug/net7.0/SelectingData.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/SelectingData/bin/Debug/net7.0/SelectingData.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/SelectingData/obj/Debug/net7.0/SelectingData.csproj.AssemblyReference.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/SelectingData/obj/Debug/net7.0/SelectingData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/SelectingData/obj/Debug/net7.0/SelectingData.AssemblyInfoInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/SelectingData/obj/Debug/net7.0/SelectingData.AssemblyInfo.cs
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/SelectingData/obj/Debug/net7.0/SelectingData.csproj.CoreCompileInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/SelectingData/obj/Debug/net7.0/SelectingData.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/SelectingData/obj/Debug/net7.0/refint/SelectingData.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/SelectingData/obj/Debug/net7.0/SelectingData.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/SelectingData/obj/Debug/net7.0/SelectingData.genruntimeconfig.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/SelectingData/obj/Debug/net7.0/ref/SelectingData.dll

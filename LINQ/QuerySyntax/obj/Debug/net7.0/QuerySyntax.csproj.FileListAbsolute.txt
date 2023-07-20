@@ -1,0 +1,15 @@
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/QuerySyntax/bin/Debug/net7.0/QuerySyntax
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/QuerySyntax/bin/Debug/net7.0/QuerySyntax.deps.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/QuerySyntax/bin/Debug/net7.0/QuerySyntax.runtimeconfig.json
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/QuerySyntax/bin/Debug/net7.0/QuerySyntax.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/QuerySyntax/bin/Debug/net7.0/QuerySyntax.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/QuerySyntax/obj/Debug/net7.0/QuerySyntax.csproj.AssemblyReference.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/QuerySyntax/obj/Debug/net7.0/QuerySyntax.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/QuerySyntax/obj/Debug/net7.0/QuerySyntax.AssemblyInfoInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/QuerySyntax/obj/Debug/net7.0/QuerySyntax.AssemblyInfo.cs
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/QuerySyntax/obj/Debug/net7.0/QuerySyntax.csproj.CoreCompileInputs.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/QuerySyntax/obj/Debug/net7.0/QuerySyntax.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/QuerySyntax/obj/Debug/net7.0/refint/QuerySyntax.dll
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/QuerySyntax/obj/Debug/net7.0/QuerySyntax.pdb
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/QuerySyntax/obj/Debug/net7.0/QuerySyntax.genruntimeconfig.cache
+/Users/rob/Desktop/C#/ZTM/ZTM.DotNet/LINQ/QuerySyntax/obj/Debug/net7.0/ref/QuerySyntax.dll

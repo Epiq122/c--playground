@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-#
+# 
 VisualStudioVersion = 17.5.001.0
 MinimumVisualStudioVersion = 
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{505C93F1-1A87-47F2-BFB4-83296DF33FF5}"
@@ -32,8 +32,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariableScope", "VariableScope\VariableScope.csproj", "{DFC0C2D5-DCB7-4C9B-B3FD-FBEC7A86427A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{65102D3C-E47E-47B1-A1E7-3D4F6E70F659}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OOP", "OOP", "{1AE3A8F1-E0BD-4CB9-8C2C-B00E33B04E7E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicClass", "..\OOP\BasicClass\BasicClass.csproj", "{FC8B0275-5CDD-494D-A938-06AEADB067A1}"
 EndProject
@@ -94,6 +92,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilteringData", "..\LINQ\FilteringData\FilteringData.csproj", "{AF50951D-AA32-443E-9BBF-8F922833C1FA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderingData", "..\LINQ\OrderingData\OrderingData.csproj", "{E4FEB8D5-D709-4754-A4D3-0B02711F7933}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectingData", "..\LINQ\SelectingData\SelectingData.csproj", "{A068CECF-43A8-44E1-92BE-EDCD3CD51063}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupingData", "LINQ\GroupingData\GroupingData.csproj", "{2EFA5E39-0D2D-43B4-A7C4-A99A29FB8CEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuerySyntax", "..\LINQ\QuerySyntax\QuerySyntax.csproj", "{F58C7574-9AE6-498E-9E08-DCC6B0C9200E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -277,6 +281,18 @@ Global
 		{E4FEB8D5-D709-4754-A4D3-0B02711F7933}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4FEB8D5-D709-4754-A4D3-0B02711F7933}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4FEB8D5-D709-4754-A4D3-0B02711F7933}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A068CECF-43A8-44E1-92BE-EDCD3CD51063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A068CECF-43A8-44E1-92BE-EDCD3CD51063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A068CECF-43A8-44E1-92BE-EDCD3CD51063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A068CECF-43A8-44E1-92BE-EDCD3CD51063}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EFA5E39-0D2D-43B4-A7C4-A99A29FB8CEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EFA5E39-0D2D-43B4-A7C4-A99A29FB8CEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EFA5E39-0D2D-43B4-A7C4-A99A29FB8CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EFA5E39-0D2D-43B4-A7C4-A99A29FB8CEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F58C7574-9AE6-498E-9E08-DCC6B0C9200E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F58C7574-9AE6-498E-9E08-DCC6B0C9200E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F58C7574-9AE6-498E-9E08-DCC6B0C9200E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F58C7574-9AE6-498E-9E08-DCC6B0C9200E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -284,5 +300,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{AF50951D-AA32-443E-9BBF-8F922833C1FA} = {8DB6B4E9-0F0F-4CCF-8DC3-6617BE7F47BC}
 		{E4FEB8D5-D709-4754-A4D3-0B02711F7933} = {8DB6B4E9-0F0F-4CCF-8DC3-6617BE7F47BC}
+		{2EFA5E39-0D2D-43B4-A7C4-A99A29FB8CEC} = {8DB6B4E9-0F0F-4CCF-8DC3-6617BE7F47BC}
 	EndGlobalSection
 EndGlobal
