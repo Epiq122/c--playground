@@ -12,6 +12,6 @@ app.Run(async (HttpContext context) =>
   context.Response.Headers["Content-Type"] = "text/html";
 
 
-  await context.Response.WriteAsync("<h1>Welcome</h1");
+  await context.Response.WriteAsync("<h1>Weddlcome</h1");
 });
 app.Run();
